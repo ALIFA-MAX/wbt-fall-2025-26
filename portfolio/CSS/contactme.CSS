@@ -1,0 +1,58 @@
+*{
+    text-align: justify;
+}
+body
+{
+    background-color: #430427;
+    color: #641f4c;
+}
+.navigationBar {
+    /* padding-left: 600px; */
+    padding-left: 75%;
+  text-align: center;
+  background-color: #9c0a72;
+  display: flex;
+}
+.navigationBar ul{
+    list-style: none;
+}
+.navigationBar li
+{
+    display: inline;
+}
+ 
+/* .Fromdiv
+{
+    border: 2px solid #804F15;
+   
+} */
+.Fromdiv {
+  border: 2px solid #b20768;
+  padding: 20px;
+  width: 50%;
+  margin: 40px auto;
+  background-color: #efe5ec;
+  color: #642c56;
+  border-radius: 10px;
+}
+/* .RadioButton
+{
+    margin-left: 50%;
+} */
+.formButton
+{
+    padding-left: 50%;
+   
+}
+.form-row
+{
+    display: flex;
+    align-items: center;
+     margin-bottom: 12px;
+}
+.form-row label
+{
+    display: flex;
+    width: 180px;
+}
+ 
